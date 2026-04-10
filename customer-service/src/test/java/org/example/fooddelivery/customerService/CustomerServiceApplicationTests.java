@@ -1,4 +1,4 @@
-package org.example.fooddelivery.customer;
+package org.example.fooddelivery.customerService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

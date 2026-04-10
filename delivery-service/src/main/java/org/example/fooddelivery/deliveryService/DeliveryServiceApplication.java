@@ -1,4 +1,4 @@
-package org.example.fooddelivery.delivery;
+package org.example.fooddelivery.deliveryService;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
